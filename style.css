@@ -1,0 +1,15 @@
+input {
+    margin: 5px;
+}
+fieldset{
+    width: 350px;
+}
+input[type=submit]{
+    background-color: aquamarine;
+}
+input[type=text]:focus{
+    background-color: aquamarine;
+}
+#kozep{
+    text-align: center;
+}
